@@ -59,7 +59,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Now go to cloned directory and run `zphisher.sh` -
   ```
-  $ cd zphisher
+  $ cd zphishere-CODE
   $ bash zphisher.sh
   ```
 
@@ -71,7 +71,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 You can easily install zphisher in Termux by using tur-repo
 ```
 $ pkg install tur-repo
-$ pkg install zphisher
+$ pkg install zphishere-CODE
 $ zphisher
 ```
 ### A Note : 
