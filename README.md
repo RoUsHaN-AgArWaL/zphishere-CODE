@@ -59,8 +59,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Now go to cloned directory and run `zphisher.sh` -
   ```
-  $ cd zphishere-CODE
-  $ bash zphisher.sh
+   cd zphishere-CODE
+   bash zphisher.sh
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
